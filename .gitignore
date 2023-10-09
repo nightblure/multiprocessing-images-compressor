@@ -5,6 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
+compressed_images
 
 # Distribution / packaging
 .Python
